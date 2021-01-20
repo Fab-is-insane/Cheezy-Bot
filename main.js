@@ -5,7 +5,7 @@ client.once('ready', () => {
 	console.log('Ready!')
 });
 
-client.login("Nzg1ODc4NDQwOTA5NjAyODc2.X8-QVQ.qymRvvRSEf8RtUUlJtV_UuXQp4c");
+client.login("NzcyNzQ2MDkwMjUyMzM3MTgy.X5_J4A.hSnZO-ZFhWXmjxx1xu1APK7MPMo");
 {
 
 	}
@@ -199,6 +199,4 @@ client.on('message', message => {
 			serverQueue.connection.dispatcher.end();
 		}
 	})
-	 
-	client.login("Nzg1ODc4NDQwOTA5NjAyODc2.X8-QVQ.qymRvvRSEf8RtUUlJtV_UuXQp4c")
 	
